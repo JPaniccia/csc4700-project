@@ -1,2 +1,3 @@
-GitHub Account: JPaniccia = Joseph Paniccia
+GitHub Account: JPaniccia 
+Joseph Paniccia
 Major: Computer Science
